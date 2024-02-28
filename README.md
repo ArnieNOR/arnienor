@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrntmusic
 - 👀 I’m interested in programming, music and tech
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
