@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbjoergsvik
+- 👋 Hi, I’m @arnienor
 - 👀 I’m interested in programming, music and tech
 - 🌱 I’m currently learning Lua
 
